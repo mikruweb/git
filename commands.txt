@@ -2,3 +2,4 @@
 
 git status
 git commit -m "<description>"
+git push origin feature-1
