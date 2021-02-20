@@ -1,0 +1,3 @@
+# A List of Common Git Commands
+
+git status
