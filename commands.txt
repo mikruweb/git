@@ -1,7 +1,6 @@
 # A List of Common Git Commands
 
 git branch -vv
-
 git status
 git add *
 git commit -m "<description>"
