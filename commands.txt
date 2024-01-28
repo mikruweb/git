@@ -1,5 +1,6 @@
 # A List of Common Git Commands
 
+git config -l
 git branch -vv
 git status
 git add *
@@ -7,3 +8,4 @@ git commit -m "<description>"
 git push origin main
 git log
 git stash
+
