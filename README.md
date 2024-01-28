@@ -1,3 +1,3 @@
 # sandbox
 
-A repository for testing git commands.
+A repository for referencing git commands.
