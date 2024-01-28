@@ -7,3 +7,4 @@ git commit -m "<description>"
 git push origin main
 git log --oneline
 git stash
+git merge
